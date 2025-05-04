@@ -2,30 +2,21 @@
 <h3 align="center">intro here</h3>
 
 
+## Languages
+Java, Python, Kotlin, HTML, CSS, SQL, JavaScript, C#, TypeScript
+
+## Libraries
+Pandas, NumPy, PyTorch, Scikit-learn, Matplotlib, Keras, TensorFlow
+
+## Web Frameworks & Development
+Django, Flask, Express.js, React, Angular, Node.js
+
+## OS Experience
+MacOS, iOS, Windows, Windows Server, Linux, Android
 
 
-## Tech Stack
-### Programming & Core Concepts <p align="left">
-<img src="https://img.shields.io/badge/
-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/
-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/
-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/
-Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" />
-</р>
-
-### Cloud & DevOps <p align="left">
-<img src="https://img.shields.io/badge/
-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/
-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logo Color=white" />
-<img src="htts://img.shields.io/badge/
-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/
-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/
-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
-</p>
 
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/tanishkamehta000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishkamehta000/" height="30" width="40" /></a>
-</p>
+<a href="https://tanishkamehta.com/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F20816485-portfolio-icon-for-your-website-mobile-presentation-and-log-design&psig=AOvVaw0kPEiJWMOwTfFRIwbQnnDl&ust=1746473710411000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDo59rHio0DFQAAAAAdAAAAABAY" alt="tanishkamehta000/" height="30" width="40" /></a>
