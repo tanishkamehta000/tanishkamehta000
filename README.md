@@ -1,21 +1,23 @@
-<h1 align="center">Hi! I'm Tanishka</h1>
-<h3 align="center">intro here</h3>
+<h1 align="center">Welcome!</h1>
+<h3 align="center">
+  
+Hi! I’m Tanishka Mehta, a builder at heart with a passion for creating secure, scalable systems. From designing quantum cryptosystems recognized by industry leaders to building full-stack platforms with React, Django, and AWS, I bring deep technical expertise paired with creativity and sharp problem-solving. I thrive on tackling complex challenges, whether deploying machine learning models, architecting cloud solutions, or engineering seamless user experiences. At the end of the day, I love turning bold ideas into elegant, impactful reality.
+</h3>
 
 
-## Languages
+## 🌐 Languages
 Java, Python, Kotlin, HTML, CSS, SQL, JavaScript, C#, TypeScript
 
-## Libraries
+## 📚 Libraries
 Pandas, NumPy, PyTorch, Scikit-learn, Matplotlib, Keras, TensorFlow
 
-## Web Frameworks & Development
+## 🧩 Web Frameworks & Development
 Django, Flask, Express.js, React, Angular, Node.js
 
-## OS Experience
+## 🖥️ OS Experience
 MacOS, iOS, Windows, Windows Server, Linux, Android
 
-
-## Connect with me:
+## 🔗 Connect with me!
 <p align="left">
 <a href="https://linkedin.com/in/tanishkamehta000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanishkamehta000/" height="30" width="40" /></a>
 <a href="https://tanishkamehta.com/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/020/816/485/large_2x/portfolio-icon-for-your-website-mobile-presentation-and-logo-design-free-vector.jpg" alt="tanishkamehta000/" height="45" width="60" /></a>
