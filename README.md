@@ -1,5 +1,6 @@
 # 🧱 Building the future
 Hi! I’m Tanishka Mehta, and I enjoy building systems that solve real problems at scale. Most of my work has focused on backend engineering, data infrastructure, and distributed systems, especially projects where performance and reliability matter just as much as the product itself.
+
 I’m especially interested in problems that require thoughtful system design and ownership beyond just implementation. I like working on projects where I can understand the full architecture, identify gaps, and build solutions that stay reliable at scale.
 ## 🌐 Languages
 Java, Python, Kotlin, HTML, CSS, SQL, JavaScript, C#, TypeScript
